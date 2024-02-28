@@ -7,7 +7,7 @@ This repository contains a Python script that demonstrates how to extract defini
    ```sh
    pip install nltk
    ```
-2. Run the script `ngram_definitions.py`:
+2. Run the script `main.py`:
    ```sh
    python ngram_definitions.py
    ```
