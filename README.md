@@ -9,7 +9,7 @@ This repository contains a Python script that demonstrates how to extract defini
    ```
 2. Run the script `main.py`:
    ```sh
-   python ngram_definitions.py
+   python main.py
    ```
 3. Enter a sentence when prompted.
 
